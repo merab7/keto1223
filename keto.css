@@ -1,0 +1,91 @@
+body{
+
+background-color: #040221;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+margin-top: 758px;
+
+}
+
+.mindori{
+display: flex;
+position: relative;
+
+
+}
+
+
+.grass{
+
+
+height: 250px;
+width: 250px;
+
+
+
+
+}
+
+
+
+
+
+
+.vardi{
+   
+height: 200px;
+width: 200px;
+display: flex;
+position: absolute;
+margin-top: -61px;
+margin-left: 26px;
+}
+
+.canvas{
+
+    position : absolute;
+     top : 0px; 
+     left : 0px;
+
+
+
+
+}
+
+
+.sun{
+ 
+height: 250px;
+width: 250px;
+margin-bottom: 400px;
+margin-left: 50px;
+
+
+}
+
+.sun-div{
+display: flex;
+position: absolute;
+height: 250px;
+margin-bottom: 150px;
+margin-top: -390px;
+margin-left: 150px;
+
+
+}
+
+
+.info{
+width: 400px;
+height: 400px;    
+display: flex;
+position: absolute;
+margin-top: -500px;
+margin-right: 450px;
+color: white;
+z-index: 100;
+white-space: wrap;
+font-weight: bold;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
